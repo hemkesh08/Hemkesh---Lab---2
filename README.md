@@ -13,6 +13,8 @@
 
 ## Live Deployment
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/hemkesh08/Hemkesh---Lab---2)
+
 **Render Deployment URL:**
 https://hemkesh-lab-2.onrender.com/
 
